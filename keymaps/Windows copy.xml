@@ -1,4 +1,8 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CloseActiveTab">
@@ -18,7 +22,9 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
-  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
@@ -63,6 +69,9 @@
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="GotoTest" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceVariable" />
@@ -85,6 +94,14 @@
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
+  <action id="ReformatCode" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
@@ -113,6 +130,8 @@
   <action id="TerminalSplitActionBase$Vertical">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
