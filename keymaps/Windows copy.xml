@@ -12,8 +12,12 @@
   <action id="CompareTwoFiles" />
   <action id="CopyPaths" />
   <action id="DecrementWindowHeight" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl up" />
@@ -24,7 +28,8 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
-  <action id="EditorDuplicate">
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -33,6 +38,22 @@
   </action>
   <action id="EditorForwardParagraphWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
@@ -57,12 +78,12 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextEditorTab" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="ReopenClosedTab">
