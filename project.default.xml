@@ -1,0 +1,12 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="terminal" />
+      </component>
+      <component name="TerminalProjectNonSharedOptionsProvider">
+        <option name="shellPath" value="C:\Program Files\Git\bin\sh.exe" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
