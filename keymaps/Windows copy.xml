@@ -155,6 +155,10 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="Switcher" />
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Terminal.SmartCommandExecution.Run" />
