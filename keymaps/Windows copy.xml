@@ -14,6 +14,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
   <action id="CopyPaths" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ApplyLeftSide" />
@@ -25,14 +26,19 @@
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="EditorBackwardParagraphWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
+  <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
@@ -68,6 +74,16 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -140,11 +156,15 @@
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
   <action id="Switcher" />
+  <action id="Terminal.SmartCommandExecution.Debug" />
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TerminalSplitActionBase$Vertical">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
+  <action id="com.intellij.lang.jsgraphql.v1.ide.actions.JSGraphQLExecuteEditorAction" />
   <action id="openAssertEqualsDiff" />
 </keymap>
