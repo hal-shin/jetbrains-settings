@@ -102,6 +102,7 @@
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
     <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
@@ -109,6 +110,11 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="SaveAs" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
