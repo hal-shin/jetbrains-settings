@@ -83,6 +83,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
@@ -150,6 +151,7 @@
   </action>
   <action id="SendEOF" />
   <action id="ServiceView.ShowServices" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="SplitVertically">
@@ -170,5 +172,8 @@
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="com.intellij.lang.jsgraphql.v1.ide.actions.JSGraphQLExecuteEditorAction" />
+  <action id="me.laria.code.idea_caseconv.TitleCaseAction">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
