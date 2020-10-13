@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/Optima-Analytics-Inc/ERBP-Aggregator-Module" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Optima-Analytics-Inc/ERBP-Recommendation-Engine" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\haeum\Desktop\Work" />
