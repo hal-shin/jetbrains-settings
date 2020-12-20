@@ -1,9 +1,13 @@
 <templateSet group="React">
   <template name="tsf" value="import React from 'react';&#10;&#10;interface Props {&#10;&#10;}&#10;&#10;const $TM_FILENAME_BASE$: React.FC&lt;Props&gt; = (props) =&gt; {&#10; return (&#10;  $1$&#10; );}&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a stateless TypeScript React component" toReformat="false" toShortenFQNames="true">
-    <variable name="TM_FILENAME_BASE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="&quot;&lt;div&gt;&lt;/div&gt;&quot;" alwaysStopAt="true" />
     <context>
       <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
     </context>
+  </template>
+  <template name="tsfa" value="import React from 'react';&#10;import {hot} from 'react-hot-reload';&#10;&#10;interface Props {&#10;&#10;}&#10;&#10;const $TM_FILENAME_BASE$: React.FC&lt;Props&gt; = (props) =&gt; {&#10; return (&#10;  $1$&#10; );}&#10;&#10;export default hot(module)($TM_FILENAME_BASE$);" description="Creates a stateless TypeScript React component with hot reload for electron" toReformat="false" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="&quot;&lt;div&gt;&lt;/div&gt;&quot;" alwaysStopAt="true" />
   </template>
 </templateSet>
