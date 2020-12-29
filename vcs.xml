@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/Optima-Analytics-Inc/ERBP-Deploy" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/granularai/label-tool-demo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\haeum\Desktop\Work" />
+    <option name="cloneParentDir" value="C:\Users\Hal\work\granular-ai" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
