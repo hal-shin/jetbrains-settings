@@ -89,11 +89,16 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="GotoTest" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceVariable" />
@@ -116,6 +121,7 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
@@ -179,4 +185,5 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
