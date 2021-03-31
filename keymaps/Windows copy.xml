@@ -98,6 +98,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="GotoTest" />
   <action id="IncrementWindowHeight" />
@@ -129,6 +130,7 @@
   <action id="QuickChangeScheme">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
+  <action id="RecentFiles" />
   <action id="ReformatCode" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
@@ -168,6 +170,8 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="Switcher" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TerminalSplitActionBase$Vertical">
@@ -175,6 +179,9 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="com.intellij.lang.jsgraphql.v1.ide.actions.JSGraphQLExecuteEditorAction" />
