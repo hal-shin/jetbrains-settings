@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <removed_mapping pattern="capability" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="capability.ts" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
