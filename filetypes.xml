@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".pretterrc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".pretterrc" type="PLAIN_TEXT" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping pattern="capability" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="capability.ts" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="mobile-drawer.js" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
