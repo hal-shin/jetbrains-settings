@@ -5,6 +5,9 @@
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
@@ -91,6 +94,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
@@ -104,12 +110,16 @@
   <action id="GotoTest" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceVariable" />
-  <action id="MethodDown" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisMethod" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
-  <action id="MethodUp" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
