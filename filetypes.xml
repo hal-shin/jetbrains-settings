@@ -4,6 +4,7 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern=".pretterrc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping pattern="capability" approved="true" type="AUTO_DETECTED" />
