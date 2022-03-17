@@ -5,6 +5,9 @@
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
@@ -85,14 +88,22 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="EditorToggleCase" />
+  <action id="EditorUnSelectWord" />
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
@@ -104,12 +115,16 @@
   <action id="GotoTest" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceVariable" />
-  <action id="MethodDown" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisMethod" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
-  <action id="MethodUp" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
@@ -165,12 +180,17 @@
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="SmartUnSelect" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
-  <action id="SurroundWithEmmet">
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="Switcher" />
   <action id="SwitcherIterateItems" />
