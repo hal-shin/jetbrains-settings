@@ -108,7 +108,6 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
@@ -133,6 +132,9 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
