@@ -3,11 +3,12 @@
     <extensionMap>
       <mapping pattern="MetadataTypeSection" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
-      <mapping pattern=".pretterrc" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".pretterrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".prettierignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="capability" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="capability.ts" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="mobile-drawer.js" approved="true" type="AUTO_DETECTED" />
