@@ -104,6 +104,7 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift ctrl q" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
