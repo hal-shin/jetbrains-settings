@@ -13,4 +13,10 @@
       <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="tsfc" value="import React from 'react';&#10;&#10;interface $TM_FILENAME_BASE$Props {&#10;  children: React.ReactNode;&#10;}&#10;&#10;export const $TM_FILENAME_BASE$ = ({ children }: $TM_FILENAME_BASE$Props) =&gt; {&#10;  return (&#10;    &lt;div&gt;{children}&lt;/div&gt;&#10;  );&#10;}" description="Creates a stateless TypeScript React component with children" toReformat="false" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
