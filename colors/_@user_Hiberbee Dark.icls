@@ -3,7 +3,7 @@
     <property name="created">2021-08-09T09:10:05</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2022-09-19T09:50:51</property>
+    <property name="modified">2023-01-26T10:19:13</property>
     <property name="originalScheme">Hiberbee Dark</property>
   </metaInfo>
   <colors>
@@ -27,27 +27,31 @@
     <option name="ERROR_HINT" value="501414" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_CHANGELIST_CONFLICT" value="f65f87" />
-    <option name="FILESTATUS_COPIED" value="a9dc76" />
+    <option name="FILESTATUS_COPIED" value="629755" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="969696" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fd971f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fd971f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fd971f" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a9dc76" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7a7a99" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c78ba1" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="9380ff" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="76b366" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6d6a80" />
+    <option name="FILESTATUS_MERGED" value="b78fcc" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_MODIFIED_OUTSIDE" value="78dce8" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="54bfbf" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="548049" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="282828" />
     <option name="HTML_TAG_TREE_LEVEL0" value="ed6b88" />
     <option name="HTML_TAG_TREE_LEVEL1" value="f9d778" />
