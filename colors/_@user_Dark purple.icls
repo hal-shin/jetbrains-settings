@@ -3,7 +3,7 @@
     <property name="created">2023-01-26T09:53:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.3.1.0.0</property>
-    <property name="modified">2023-01-26T10:17:46</property>
+    <property name="modified">2023-03-02T11:36:07</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -27,6 +27,7 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6d6a80" />
     <option name="FILESTATUS_MERGED" value="b78fcc" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED" value="afb9c3" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
