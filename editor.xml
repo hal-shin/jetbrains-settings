@@ -8,6 +8,7 @@
   <component name="DeclarativeInlayHintsSettings">
     <option name="providerIdToEnabled">
       <map>
+        <entry key="ts.chain.hints" value="false" />
         <entry key="ts.type.hints" value="false" />
       </map>
     </option>
