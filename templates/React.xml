@@ -19,7 +19,7 @@
       <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="rsf" value="import React from 'react';&#10;&#10;export const $TM_FILENAME_BASE$ = ({}) =&gt; {&#10;  return (&#10;    $1$&#10;  );&#10; }&#10;" description="Creates a stateless React component as a named function without PropTypes" toReformat="true" toShortenFQNames="true">
+  <template name="rsf" value="import React from 'react';&#10;&#10;export const $TM_FILENAME_BASE$ = (props) =&gt; {&#10;  return (&#10;    $1$&#10;  );&#10; }&#10;" description="Creates a stateless React component as a named function without PropTypes" toReformat="true" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="&quot;&lt;div&gt;&lt;/div&gt;&quot;" alwaysStopAt="true" />
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
