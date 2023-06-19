@@ -6,6 +6,11 @@
     <option name="enabled" value="false" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="disabledOptions">
+      <set>
+        <option value="ts.type.hints#function.returns" />
+      </set>
+    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.type.hints" value="false" />
