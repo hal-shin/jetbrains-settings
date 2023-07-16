@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="MetadataTypeSection" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
