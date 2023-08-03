@@ -3,13 +3,11 @@
     <property name="created">2023-01-26T10:11:00</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.3.1.0.0</property>
-    <property name="modified">2023-08-02T16:52:32</property>
+    <property name="modified">2023-08-03T08:24:44</property>
     <property name="originalScheme">Gerry Dark</property>
     <property name="partialSave">true</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="96be78" />
-    <option name="ERROR_HINT" value="961e3c" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
@@ -57,11 +55,6 @@
         <option name="FOREGROUND" value="61afe1" />
       </value>
     </option>
-    <option name="DEFAULT_METADATA">
-      <value>
-        <option name="FOREGROUND" value="ffc86e" />
-      </value>
-    </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e7e7e7" />
@@ -96,11 +89,6 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="465078" />
-      </value>
-    </option>
-    <option name="OC.CLASS_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="ffc86e" />
       </value>
     </option>
     <option name="RUNTIME_ERROR">
