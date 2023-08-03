@@ -4,7 +4,7 @@
     <property name="created">2020-10-04T14:33:11</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-10-04T14:35:03</property>
+    <property name="modified">2023-08-03T09:00:53</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <console-font>
@@ -26,26 +26,32 @@
     <option name="DOCUMENTATION_COLOR" value="282a36" />
     <option name="DOC_COMMENT_GUIDE" value="666879" />
     <option name="DOC_COMMENT_LINK" value="f1fa8c" />
-    <option name="FILESTATUS_ADDED" value="50fa7b" />
-    <option name="FILESTATUS_DELETED" value="6272a4" />
-    <option name="FILESTATUS_HIJACKED" value="f1fa8c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6272a4" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ffb86c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff79c6" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff79c6" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff79c6" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ffb86c" />
-    <option name="FILESTATUS_MERGED" value="bd93f9" />
-    <option name="FILESTATUS_MODIFIED" value="8be9fd" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8be9fd" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8be9fd" />
-    <option name="FILESTATUS_OBSOLETE" value="ffb86c" />
-    <option name="FILESTATUS_SUPPRESSED" value="6272a4" />
-    <option name="FILESTATUS_SWITCHED" value="ffb86c" />
-    <option name="FILESTATUS_UNKNOWN" value="bd93f9" />
-    <option name="FILESTATUS_addedOutside" value="6272a4" />
-    <option name="FILESTATUS_changelistConflict" value="ff79c6" />
-    <option name="FILESTATUS_modifiedOutside" value="bd93f9" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="76b366" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+    <option name="FILESTATUS_MERGED" value="c792ea" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED" value="afb9c3" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="54bfbf" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="ffcb6b" />
+    <option name="FILESTATUS_changelistConflict" value="fc9867" />
+    <option name="FILESTATUS_modifiedOutside" value="c792ea" />
     <option name="GUTTER_BACKGROUND" value="282a36" />
     <option name="INDENT_GUIDE" value="424450" />
     <option name="INFORMATION_HINT" value="282a36" />
@@ -214,7 +220,7 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="262626" />
@@ -830,18 +836,18 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_TAG" baseAttributes="TEXT" />
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_TAG" baseAttributes="" />
+    <option name="HAML_TEXT" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
@@ -1084,7 +1090,7 @@
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="333646" />
@@ -3047,8 +3053,6 @@
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd93f9" />

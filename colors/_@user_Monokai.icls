@@ -1,10 +1,10 @@
-<scheme name="_@user_All hallow's eve" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-01-26T10:11:00</property>
+    <property name="created">2023-08-03T08:24:52</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2022.3.1.0.0</property>
+    <property name="ideVersion">2023.2.0.0</property>
     <property name="modified">2023-08-03T09:00:54</property>
-    <property name="originalScheme">All hallow's eve</property>
+    <property name="originalScheme">Monokai</property>
     <property name="partialSave">true</property>
   </metaInfo>
   <colors>
