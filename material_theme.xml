@@ -1,12 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isCompactStatusBar" value="true" />
-    <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="6" />
-    <option name="tabsHeight" value="28" />
-    <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="7f65d243:188691586e3:-8000" />
+    <option name="accentColor" value="5378c8" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="5b3029ad:18ade3be70a:-8000" />
     <option name="version" value="8.11.0" />
   </component>
 </application>
