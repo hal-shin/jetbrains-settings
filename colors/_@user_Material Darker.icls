@@ -3,14 +3,13 @@
     <property name="created">2020-10-04T14:33:11</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2023-10-20T10:07:51</property>
+    <property name="modified">2023-10-20T11:07:06</property>
     <property name="originalScheme">Material Darker</property>
     <property name="partialSave">true</property>
   </metaInfo>
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="1e1f22" />
     <option name="DOCUMENTATION_COLOR" value="212121" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
   </colors>
   <attributes>
