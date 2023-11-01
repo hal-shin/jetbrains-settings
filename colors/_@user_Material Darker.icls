@@ -3,13 +3,20 @@
     <property name="created">2020-10-04T14:33:11</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2023-10-20T11:07:06</property>
+    <property name="modified">2023-10-31T17:24:11</property>
     <property name="originalScheme">Material Darker</property>
     <property name="partialSave">true</property>
   </metaInfo>
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="1e1f22" />
     <option name="DOCUMENTATION_COLOR" value="212121" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
   </colors>
   <attributes>
