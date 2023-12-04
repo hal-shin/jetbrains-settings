@@ -3,7 +3,7 @@
     <property name="created">2020-10-04T14:33:11</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2023-10-31T17:24:11</property>
+    <property name="modified">2023-12-04T15:22:46</property>
     <property name="originalScheme">Material Darker</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -17,6 +17,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
+    <option name="FILESTATUS_addedOutside" value="ffcb6b" />
+    <option name="FILESTATUS_changelistConflict" value="fc9867" />
+    <option name="FILESTATUS_modifiedOutside" value="c792ea" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
   </colors>
   <attributes>
