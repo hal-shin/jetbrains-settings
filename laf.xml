@@ -4,7 +4,7 @@
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
       <laf-to-scheme laf="Gerry Darcula" scheme="_@user_Gerry Darcula" />
-      <laf-to-scheme laf="Gerry Dark" scheme="_@user_Material Darker" />
+      <laf-to-scheme laf="Gerry Dark" scheme="Material Darker HS" />
       <laf-to-scheme laf="Gerry Oceanic" scheme="_@user_Gerry Oceanic" />
       <laf-to-scheme laf="Gerry Storm" scheme="_@user_Gerry Storm" />
       <laf-to-scheme laf="Gerry Violet" scheme="_@user_Gerry Violet" />
