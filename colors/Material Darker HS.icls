@@ -3,7 +3,7 @@
     <property name="created">2023-10-20T11:06:20</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.2.2.0.0</property>
-    <property name="modified">2023-12-04T17:09:39</property>
+    <property name="modified">2023-12-05T13:16:53</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -230,9 +230,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff9800" />
